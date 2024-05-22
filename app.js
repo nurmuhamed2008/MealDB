@@ -96,7 +96,6 @@ function showMeals(arr) {
 }
 
 
-
 inputSearch.addEventListener('input', () => {
   console.log(inputSearch.value);
   const cards = document.querySelectorAll(".card");
